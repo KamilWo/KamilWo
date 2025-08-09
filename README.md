@@ -5,6 +5,10 @@ containers and microservices in hybrid clouds. Many years of experience help
 with selecting the right technologies for the needs and managing people’s 
 potential and expectations. I look forward to helping you and your team.
 
+## Top languages in my repos
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamilWo)](https://github.com/KamilWo/github-readme-stats)
+
 ### Skills and experience
 
 <table>
